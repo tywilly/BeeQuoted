@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1"
+        android:title="Login" android:showAsAction="always"></item>
+    
+
+</menu>
+<!-- From: file:/E:/Android%20Studio%20Projects/BeeQuoted/app/src/main/res/menu/action_bar_menu.xml -->

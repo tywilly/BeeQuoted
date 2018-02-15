@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-f9acbce8147df45eb6e4e6670514bd6f5a9d76b0.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\libs\httpmime-4.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bdb321e86724b16af6134a0fd22fec649eda971">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\httpmime-4.5-030ec6eef5f26f8af51d56edf8ab00996fd0f76f.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-062d01abffa44f7ad7f8a7f350048829cacdcdd3.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\libs\httpclient-4.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\httpclient-4.5-88d6ff1fcefb2d82ecda75df100f57a8e5bf6d96.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\classes-b39ab7e9ebd393b8f25224451628d06cfa211acf.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\libs\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1-673f7ec6c4a7f7814c8e34b5a88f57e376042a74.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\android-support-v4-c0b8982195af3d39d774b101c18a7a3888797e52.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\classes-094a0c3350ca51b7420f633aca6891909805e33b.jar" />
+    </item>
+    <item
+        jar="E:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Android Studio Projects\BeeQuoted\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-356fe1ca71540c8c5ed98238cfc91ac3b3ebf82e.jar" />
+    </item>
+
+</items>
